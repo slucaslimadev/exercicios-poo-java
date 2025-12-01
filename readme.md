@@ -14,8 +14,8 @@ Uma coleção de 20 exercícios progressivos para praticar os conceitos fundamen
 ## 🟡 Nível 2: Encapsulamento e Construtores
 *Foco: Modificadores de acesso (private), Getters/Setters e Construtores.*
 
-- [ ] **6. Carro com Validação:** Crie uma classe `Carro` com atributos privados `marca`, `modelo` e `ano`. Crie um construtor para inicializar esses valores. No setter do ano, não permita valores menores que 1886.
-- [ ] **7. Aluno e Notas:** Crie uma classe `Aluno` com `nome` e um array (ou lista) de notas. Use getters e setters. Crie um método privado `calcularMedia()` que é chamado por um método público `verificarAprovacao()` (aprovado se média >= 7).
+- [X] **6. Carro com Validação:** Crie uma classe `Carro` com atributos privados `marca`, `modelo` e `ano`. Crie um construtor para inicializar esses valores. No setter do ano, não permita valores menores que 1886.
+- [X] **7. Aluno e Notas:** Crie uma classe `Aluno` com `nome` e um array (ou lista) de notas. Use getters e setters. Crie um método privado `calcularMedia()` que é chamado por um método público `verificarAprovacao()` (aprovado se média >= 7).
 - [ ] **8. Relógio Digital:** Crie uma classe `Relogio` com atributos `hora` e `minuto`. Os setters devem garantir que a hora seja 0-23 e minuto 0-59. Crie um método `tick()` que avança o tempo em um minuto.
 - [ ] **9. Agenda Simples:** Crie uma classe `Contato` (nome, telefone). Crie uma classe `Agenda` que armazena 10 contatos (encapsulados) e permite adicionar e buscar por nome.
 
