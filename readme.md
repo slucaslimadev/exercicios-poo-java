@@ -9,7 +9,7 @@ Uma coleção de 20 exercícios progressivos para praticar os conceitos fundamen
 - [X] **2. Conta Bancária Simples:** Crie uma classe `ContaBancaria` com atributos `numeroConta` e `saldo`. Implemente métodos `depositar(valor)` e `sacar(valor)`. Não permita saques se o saldo for insuficiente.
 - [X] **3. Calculadora:** Crie uma classe `Calculadora` com métodos para somar, subtrair, multiplicar e dividir dois números.
 - [X] **4. Estoque de Produto:** Crie uma classe `Produto` com `nome`, `preco` e `quantidade`. Adicione métodos para `adicionarEstoque()` e `removerEstoque()`. Exiba o valor total do estoque desse produto.
-- [ ] **5. Retângulo:** Crie uma classe `Retangulo` com atributos `largura` e `altura`. Crie métodos para calcular a área e o perímetro.
+- [X] **5. Retângulo:** Crie uma classe `Retangulo` com atributos `largura` e `altura`. Crie métodos para calcular a área e o perímetro.
 
 ## 🟡 Nível 2: Encapsulamento e Construtores
 *Foco: Modificadores de acesso (private), Getters/Setters e Construtores.*
