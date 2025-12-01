@@ -5,9 +5,9 @@ Uma coleção de 20 exercícios progressivos para praticar os conceitos fundamen
 ## 🟢 Nível 1: Classes, Objetos e Atributos Básicos
 *Foco: Criação de classes, instanciar objetos e métodos simples.*
 
-- [ ] **1. Classe Pessoa:** Crie uma classe `Pessoa` com atributos `nome`, `idade` e `altura`. Crie um método que imprime uma apresentação (ex: "Olá, sou Carlos e tenho 25 anos").
-- [ ] **2. Conta Bancária Simples:** Crie uma classe `ContaBancaria` com atributos `numeroConta` e `saldo`. Implemente métodos `depositar(valor)` e `sacar(valor)`. Não permita saques se o saldo for insuficiente.
-- [ ] **3. Calculadora:** Crie uma classe `Calculadora` com métodos para somar, subtrair, multiplicar e dividir dois números.
+- [X] **1. Classe Pessoa:** Crie uma classe `Pessoa` com atributos `nome`, `idade` e `altura`. Crie um método que imprime uma apresentação (ex: "Olá, sou Carlos e tenho 25 anos").
+- [X] **2. Conta Bancária Simples:** Crie uma classe `ContaBancaria` com atributos `numeroConta` e `saldo`. Implemente métodos `depositar(valor)` e `sacar(valor)`. Não permita saques se o saldo for insuficiente.
+- [X] **3. Calculadora:** Crie uma classe `Calculadora` com métodos para somar, subtrair, multiplicar e dividir dois números.
 - [ ] **4. Estoque de Produto:** Crie uma classe `Produto` com `nome`, `preco` e `quantidade`. Adicione métodos para `adicionarEstoque()` e `removerEstoque()`. Exiba o valor total do estoque desse produto.
 - [ ] **5. Retângulo:** Crie uma classe `Retangulo` com atributos `largura` e `altura`. Crie métodos para calcular a área e o perímetro.
 
